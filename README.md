@@ -1,14 +1,16 @@
-## CS2-PA3
+# CS2-PA3
 Design Thinking Final Passion Project
 
-# Empathize: 
-- A college athelete constantly forgets to drink water and ends up exhausted and dehydrated in practice
-- A person wants a way to track their mood throughout the day so that they can regulate it better
-- A highschool freshman struggles with learning how to study effectively because of the transition to highschool 
+## Empathize: 
+- A mother/father who relies on SNAP benefits to feed their family is struggling to find places where they can get food due to the government shutdown cuts
 
-# Research:
+## Research:
+1. Title: What’s happening with SNAP benefits because of the government shutdown? https://youtu.be/1cV6oaLcDRk?si=qgvQ_O74ch6IyMlx
+2. Title: Nearly 42 million Americans lose their food stamp benefits 
+    highlight from it: "For now, states, food banks and nonprofit organizations are scrambling to backfill the loss of critical federal dollars, however temporary it may be, ahead of the Thanksgiving holiday." https://www.politico.com/news/2025/11/01/millions-lose-food-aid-snap-trump-shutdown-00632404
+3. Title: Trump administration must continue food aid during shutdown, US judges say
+    highlight from it: "Even if the government turns to the contingency fund, it would only be able to cover about 60% of beneficiaries in a single month, according to the Center on Budget and Policy Priorities (CBPP), a think-tank focused on policies that help low-income families"  https://www.bbc.com/news/articles/cr433x9zqq4o
+4. Title: Military families turn to food banks as shutdown hits SNAP benefits https://youtu.be/HQQX9UrOsn4?si=rbLbVYKNsi8mT9AE
 
-# Define: 
-- How might I help a college athlete remember to drink water throughout the day?
-- How might I help a person who wants to track their mood so that they can regulate it better?
-- How might I help a highschool freshman who struggles with studying effectively?
+## Define: 
+- How might I help an individual learn about food banks/pantrys/non-profits where they can be provided food after the government shutdown cut on the Supplemental Nutrition Assistance Program?
