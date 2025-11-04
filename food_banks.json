@@ -1,0 +1,57 @@
+{
+    "washington dc": [
+        {
+        "name": "Capital Area Food Bank",
+        "address": "4900 Puerto Rico Ave NE",
+        "hours": "Mon-Fri 9am-3pm",
+        "phone": "(202) 644-9800",
+        "summary": "",
+        "website": "https://www.capitalareafoodbank.org/"
+        },
+        {
+        "name": "Martha's Table",
+        "address": "2375 Elvans Rd SE",
+        "hours": "Mon-Sat 11am-4pm",
+        "phone": "(202) 328-6608",
+        "summary": "",
+        "website": "https://marthastable.org/"
+        }
+    ],
+    "baltimore": [
+
+    ],
+    "silver spring": [
+
+    ],
+    "rockville": [
+
+    ],
+    "bathesda": [
+
+    ],
+    "columbia": [
+
+    ],
+    "germantown": [
+
+    ],
+    "richmond": [
+
+    ],
+    "arlington": [
+
+    ],
+    "charlottesville": [
+
+    ],
+    "alexandria": [
+
+    ],
+    "falls church": [
+
+    ],
+    "hayfeild": [
+        
+    ]
+
+}
