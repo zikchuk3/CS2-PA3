@@ -34,7 +34,7 @@ def dc_directory():
 
 def md_directory():
     # list just ot display info
-    MD = ['baltimore', 'silver spring', 'rockville', 'bathesda', 'columbia', 'germantown']
+    MD = ['baltimore', 'silver spring', 'rockville', 'bathesda', 'college park', 'germantown']
     print("Here are the cities in Maryland this directory has: ")
     print(MD)
     city = input("Choose a city you want to explore: ")
@@ -53,7 +53,7 @@ def md_directory():
 
 def va_directory():
     # list just ot display info
-    VA = ['richmond', 'arlington', 'charlottesville', 'alexandria', 'falls church', 'hayfeild']
+    VA = ['richmond', 'arlington', 'charlottesville', 'alexandria', 'falls church', 'fairfax']
     print("Here are the cities in Virgnia this directory has: ")
     print(VA)
     city = input("Choose a city you want to explore: ")
@@ -173,6 +173,7 @@ def show_list():
             # join is to put the lines back in a string using a space as a separater 
             print("\n" + "".join(inside) + "\n")
 
+            '''
             save_choices = ["yes", "y"]
             back_choices = ["n", "no"]
             delete_choice = input("Is there any bookmark you would like to delete? (y)es or (n)o: ")
@@ -184,18 +185,25 @@ def show_list():
                 return
             else:
                 error()
-                delete_choice = input("Is there any bookmark you would like to delete? (y)es or (n)o: ")
+                delete_choice = input("Is there any bookmark you would like to delete? (y)es or (n)o: ")'''
 
     except ValueError:
         print("Please enter a number shown.")
 
 
-
+'''
+dictionary = {
+    "Name": {
+        "address": "4900 Puerto Rico Ave NE, Washington, DC 20017",
+        "hours": "Mon-Fri 9am-3pm",
+        "phone": "(202) 644-9800",
+        "summary": "",
+        "website": "https://www.capitalareafoodbank.org/"}
+}
 # to clear bookmark in bookmark list (trying to make it so it is a certain bookmark instead of whole list)
 def delete_list(bookmark_list, bookmark_place):
     
     place = bookmark_place
-
     # open the bookmark list
     with open(f"{bookmark_list}", "r") as g:
         # check if the place the person inputed is in the list
@@ -207,7 +215,7 @@ def delete_list(bookmark_list, bookmark_place):
         print()
     
     #print(f"Succesfully deleted {place} from your list")
-
+'''
 
 # MENU
 # used DICTIONARY here

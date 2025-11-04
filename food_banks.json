@@ -19,18 +19,18 @@
         {
         "name": "Martha's Table at the Maycroft",
         "address": "1474 Columbia Rd NW, Washington, DC 20009",
-        "hours": "Mon-Fri 9am-4pm",
+        "hours": "Mon-Thurs 9am-5pm, Fri 9am-12pm",
         "phone": "(202) 328-6608",
         "summary": "",
         "website": "https://marthastable.org/"
         },
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
+        "name": "Bread for the City",
+        "address": "1525 7th St NW, Washington, DC 20001",
+        "hours": "Mon-Thurs 9am-3pm",
+        "phone": "(202) 265-2400",
         "summary": "",
-        "website": ""
+        "website": "https://breadforthecity.org/"
         }
     ],
     "baltimore": [
@@ -43,83 +43,83 @@
         "website": "https://mdfoodbank.org"
         },
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
+        "name": "Beans & Bread",
+        "address": "400 S Bond St, Baltimore, MD 21231",
+        "hours": "Mon-Fri 9am-2pm",
+        "phone": "(410) 732-1892",
         "summary": "",
-        "website": ""
+        "website": "http://www.vincentbaltimore.org/get-help"
         },
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
+        "name": "Franciscan Center",
+        "address": "101 W 23rd St, Baltimore, MD 21218",
+        "hours": "Mon+Thurs+Fri 10am-1pm, Tues+Wed 10am-1pm, 5:30-7pm",
+        "phone": "(410) 467-5340",
         "summary": "",
-        "website": ""
+        "website": "http://fcbmore.org/"
         },
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
+        "name": "The Food Project",
+        "address": "424 S Pulaski St, Baltimore, MD 21223",
+        "hours": "Mon-Fri 10am-2pm, Sat 9am-12pm",
+        "phone": "(443) 690-1694",
         "summary": "",
-        "website": ""
+        "website": "http://www.uempowerofmd.org/"
         }
     ],
     "silver spring": [
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
+        "name": "Shepherd's Table Inc.",
+        "address": "8106 Georgia Ave, Silver Spring, MD 20910",
+        "hours": "Mon-Fri 7:30am-7pm, Sat+Sun 10am-7pm",
+        "phone": "(301) 585-6463",
         "summary": "",
-        "website": ""
+        "website": "http://www.shepherdstable.org/"
         },
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
+        "name": "Manna Food Center Market",
+        "address": "12301 Old Columbia Pike, Silver Spring, MD 20904",
+        "hours": "Mon-Thurs 8:30am-4pm, Fri 8am-3pm",
+        "phone": "(301) 424-1130",
         "summary": "",
-        "website": ""
+        "website": "http://www.mannafood.org/"
         },
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
+        "name": "Mid-County United Ministries (MUM)",
+        "address": "11002 Veirs Mill Rd Suite 710, Silver Spring, MD 20902",
+        "hours": "Tues-Thurs 9am-4pm",
+        "phone": "(301) 929-8675",
         "summary": "",
-        "website": ""
+        "website": "https://mumhelp.org/"
         },
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
+        "name": "Rainbow Community Development Center",
+        "address": "2120 Industrial Pkwy A, Silver Spring, MD 20904",
+        "hours": "Mon-Fri 10am-6pm",
+        "phone": "(301) 625-2561",
         "summary": "",
-        "website": ""
+        "website": "http://rainbowcdc.org/"
         }
     ],
     "rockville": [
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
+        "name": "Nourish Now",
+        "address": "397 E Gude Dr, Rockville, MD 20850",
+        "hours": "Mon-Fri 9:30am-4:30pm",
+        "phone": "(301) 330-0222",
         "summary": "",
-        "website": ""
+        "website": "http://nourishnow.org/"
         },
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
+        "name": "Interfaith Works Essential Needs Center: Clothing Center and Food Pantry",
+        "address": "751 Twinbrook Pkwy # 8, Rockville, MD 20851",
+        "hours": "Tues-Fri 8:30am-4pm, Sat 8:30am-1pm",
+        "phone": "(301) 424-3796",
         "summary": "",
-        "website": ""
+        "website": "http://iworksmc.org/"
         },
         {
-        "name": "",
+        "name": "Montgomery County Humane Society",
         "address": "",
         "hours": "",
         "phone": "",
@@ -169,14 +169,14 @@
         "website": ""
         }
     ],
-    "columbia": [
+    "college park": [
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
-        "summary": "",
-        "website": ""
+        "name": "UMD Campus Pantry",
+        "address": "South Campus Dining Hall, 7093 Preinkert Dr, College Park, MD 20740",
+        "hours": "Mon-Fri 10am-5pm",
+        "phone": "(301) 405-9579",
+        "summary": "**only for UMD students***",
+        "website": "https://dining.umd.edu/sustainability/campus-pantry"
         },
         {
         "name": "",
@@ -273,12 +273,12 @@
     ],
     "arlington": [
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
+        "name": "Arlington Food Assistance Center (AFAC)",
+        "address": "2708 S Nelson St, Arlington, VA 22206",
+        "hours": "Mon+Wed+Fri 9am-1pm, Tues+Thurs 9am-1pm then 6-7pm, Sat 8:30am-12:30pm",
+        "phone": "(703) 845-8486",
         "summary": "",
-        "website": ""
+        "website": "https://afac.org/"
         },
         {
         "name": "",
@@ -305,14 +305,14 @@
         "website": ""
         }
     ],
-    "charlottesville": [
+    "fairfax": [
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
+        "name": "Food For Others",
+        "address": "2938 Prosperity Ave, Fairfax, VA 22031",
+        "hours": "Mon-Fri 9:30am-5pm",
+        "phone": "(703) 207-9173",
         "summary": "",
-        "website": ""
+        "website": "http://www.foodforothers.org/"
         },
         {
         "name": "",
@@ -407,7 +407,7 @@
         "website": ""
         }
     ],
-    "hayfeild": [
+    "charlottesville": [
         {
         "name": "",
         "address": "",
