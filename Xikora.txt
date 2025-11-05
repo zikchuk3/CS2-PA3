@@ -5,3 +5,9 @@ Hours: Mon-Fri 9am-3pm
 Phone: (202) 644-9800 
 Summary:  
 Website: https://www.capitalareafoodbank.org/ 
+ 
+ Name: Bread for the City 
+Address: 1525 7th St NW, Washington, DC 20001 
+Hours: Mon-Thurs 9am-3pm 
+Phone: (202) 265-2400 
+Website: https://breadforthecity.org/ 

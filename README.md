@@ -17,9 +17,12 @@ Design Thinking Final Passion Project
 
 # Reflection
 ### Problems I faced
-    - I tried to add a delete bookmark feauture where it will delete a certain bookmark instead of clearing the whole file 
-    - I struggled to find where I could use a dictionary but I eventually just used it for the menu
-    - other than that, I did not really face any problems
+    - I was struggling to add thing to bookmark.txt once instead of twice if the user types the same name in, I had to add \n to the things
+    - I tried to add a delete bookmark feauture where it will delete a certain bookmark instead of clearing the whole file, I might've been able to do it but I didn't have enough time so I gave it up 
+    - Before I used the json file, I tried to use multiple dictionaries for the info, but it was just not working the way I wanted it to, so I switched to the json
+    - I struggled to find where I could use a dictionary after I switched to the json but I eventually just used it for the menu
+    - I struggled with the try/except error handling in the show_list func because of the range of thing for chosen_bookmarn but I figured it out by just calling the show_list func again then return to main after
+
 
 ### What I'm most proud of
     - I am proud of being to put everything I learnt this mod together
@@ -28,6 +31,13 @@ Design Thinking Final Passion Project
 ### What I would add/change
     - I would add more cities/towns and more places 
     - maybe make it by county instead of cities too
+    - add more states
     - add a summary when displaying info (I had it before but deleted it due to not having enough time </3)
+    - add the delete bookmark option (I ran out of time)
 
 ### Pledge
+I did not give nor receive aid on this assignment with the exception of these sources:
+    - json files: https://www.w3schools.com/python/python_json.asp + https://www.geeksforgeeks.org/python/read-json-file-using-python/
+    - isdigit(): https://www.w3schools.com/python/ref_string_isdigit.asp
+    - join(): https://www.w3schools.com/python/ref_string_join.asp
+    - mardown for readme: https://www.markdownguide.org/getting-started/
