@@ -5,7 +5,6 @@
         "address": "4900 Puerto Rico Ave NE, Washington, DC 20017",
         "hours": "Mon-Fri 9am-3pm",
         "phone": "(202) 644-9800",
-        "summary": "",
         "website": "https://www.capitalareafoodbank.org/"
         },
         {
@@ -13,7 +12,6 @@
         "address": "2375 Elvans Rd SE, Washington, DC 20020",
         "hours": "Mon-Fri 9am-4pm",
         "phone": "(202) 328-6608",
-        "summary": "",
         "website": "https://marthastable.org/"
         },
         {
@@ -21,7 +19,6 @@
         "address": "1474 Columbia Rd NW, Washington, DC 20009",
         "hours": "Mon-Thurs 9am-5pm, Fri 9am-12pm",
         "phone": "(202) 328-6608",
-        "summary": "",
         "website": "https://marthastable.org/"
         },
         {
@@ -29,7 +26,6 @@
         "address": "1525 7th St NW, Washington, DC 20001",
         "hours": "Mon-Thurs 9am-3pm",
         "phone": "(202) 265-2400",
-        "summary": "",
         "website": "https://breadforthecity.org/"
         }
     ],
@@ -39,7 +35,6 @@
         "address": " 2200 Halethorpe Farms Rd, Baltimore, MD 21227",
         "hours": "Mon-Fri 8am-4:30pm",
         "phone": "(410) 737-8282",
-        "summary": "",
         "website": "https://mdfoodbank.org"
         },
         {
@@ -47,7 +42,6 @@
         "address": "400 S Bond St, Baltimore, MD 21231",
         "hours": "Mon-Fri 9am-2pm",
         "phone": "(410) 732-1892",
-        "summary": "",
         "website": "http://www.vincentbaltimore.org/get-help"
         },
         {
@@ -55,7 +49,6 @@
         "address": "101 W 23rd St, Baltimore, MD 21218",
         "hours": "Mon+Thurs+Fri 10am-1pm, Tues+Wed 10am-1pm, 5:30-7pm",
         "phone": "(410) 467-5340",
-        "summary": "",
         "website": "http://fcbmore.org/"
         },
         {
@@ -63,7 +56,6 @@
         "address": "424 S Pulaski St, Baltimore, MD 21223",
         "hours": "Mon-Fri 10am-2pm, Sat 9am-12pm",
         "phone": "(443) 690-1694",
-        "summary": "",
         "website": "http://www.uempowerofmd.org/"
         }
     ],
@@ -73,7 +65,6 @@
         "address": "8106 Georgia Ave, Silver Spring, MD 20910",
         "hours": "Mon-Fri 7:30am-7pm, Sat+Sun 10am-7pm",
         "phone": "(301) 585-6463",
-        "summary": "",
         "website": "http://www.shepherdstable.org/"
         },
         {
@@ -81,7 +72,6 @@
         "address": "12301 Old Columbia Pike, Silver Spring, MD 20904",
         "hours": "Mon-Thurs 8:30am-4pm, Fri 8am-3pm",
         "phone": "(301) 424-1130",
-        "summary": "",
         "website": "http://www.mannafood.org/"
         },
         {
@@ -89,7 +79,6 @@
         "address": "11002 Veirs Mill Rd Suite 710, Silver Spring, MD 20902",
         "hours": "Tues-Thurs 9am-4pm",
         "phone": "(301) 929-8675",
-        "summary": "",
         "website": "https://mumhelp.org/"
         },
         {
@@ -97,7 +86,6 @@
         "address": "2120 Industrial Pkwy A, Silver Spring, MD 20904",
         "hours": "Mon-Fri 10am-6pm",
         "phone": "(301) 625-2561",
-        "summary": "",
         "website": "http://rainbowcdc.org/"
         }
     ],
@@ -107,7 +95,6 @@
         "address": "397 E Gude Dr, Rockville, MD 20850",
         "hours": "Mon-Fri 9:30am-4:30pm",
         "phone": "(301) 330-0222",
-        "summary": "",
         "website": "http://nourishnow.org/"
         },
         {
@@ -115,160 +102,141 @@
         "address": "751 Twinbrook Pkwy # 8, Rockville, MD 20851",
         "hours": "Tues-Fri 8:30am-4pm, Sat 8:30am-1pm",
         "phone": "(301) 424-3796",
-        "summary": "",
         "website": "http://iworksmc.org/"
         },
         {
-        "name": "Montgomery County Humane Society",
-        "address": "",
-        "hours": "",
-        "phone": "",
-        "summary": "",
-        "website": ""
+        "name": "Manna Food Center",
+        "address": "9311 Gaither Rd, Gaithersburg, MD 20877 (close to Rockville)",
+        "hours": "Mon-Fri 8am-2pm",
+        "phone": "(301) 424-1130",
+        "website": "http://www.mannafood.org/"
         },
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
-        "summary": "",
-        "website": ""
+        "name": "Gaithersburg HELP Pantry",
+        "address": "301 Muddy Branch Rd, Gaithersburg, MD 20878 (close to Rockville)",
+        "hours": "N/A",
+        "phone": "(301) 216-2510",
+        "website": "http://gaithersburghelp.org/"
         }
     ],
     "bathesda": [
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
-        "summary": "",
-        "website": ""
+        "name": "So What Else Inc.",
+        "address": "4924 Wyaconda Rd, North Bethesda, MD 20852",
+        "hours": "Mon+Fri 8:30am-4pm, Tues-Thurs 8:30am-4:30pm, Sat 7am-1pm",
+        "phone": "(301) 887-3808",
+        "website": "https://www.sowhatelse.org/"
         },
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
-        "summary": "",
-        "website": ""
+        "name": "Montgomery County Food Council",
+        "address": "at Bethesda Green, 4825 Cordell Ave 2nd Floor, Bethesda, MD 20814",
+        "hours": "N/A",
+        "phone": " (301) 664-4010",
+        "website": "http://mocofoodcouncil.org/contact-us-2/"
         },
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
-        "summary": "",
-        "website": ""
+        "name": "Nourishing Bathesda",
+        "address": "10319 Westlake Drive Su. 262 Bethesda, MD 20817",
+        "hours": "N/A",
+        "phone": "(301) 664-4630",
+        "website": "https://www.nourishingbethesda.org/"
         },
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
-        "summary": "",
-        "website": ""
+        "name": "Bethesda Cares-First Baptist Church",
+        "address": "5033 Wilson Lane, Bethesda, MD 20814",
+        "hours": "Mon-Fri 1st to the 15 of the month, 1pm-2pm",
+        "phone": "(301) 907-9244",
+        "website": "http://www.bethesdacares.org/"
         }
     ],
     "college park": [
         {
         "name": "UMD Campus Pantry",
         "address": "South Campus Dining Hall, 7093 Preinkert Dr, College Park, MD 20740",
-        "hours": "Mon-Fri 10am-5pm",
+        "hours": "Mon-Fri 10am-5pm **only for UMD students**",
         "phone": "(301) 405-9579",
-        "summary": "**only for UMD students***",
         "website": "https://dining.umd.edu/sustainability/campus-pantry"
         },
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
-        "summary": "",
-        "website": ""
+        "name": "College Park Community Food Bank",
+        "address": "the parking lot of 9704 Rhode Island Ave, College Park, MD.",
+        "hours": "Sat 9:30-11am",
+        "phone": "contact page: https://www.collegeparkfoodbank.com/contact-us-1",
+        "website": "http://www.collegeparkfoodbank.com/"
         },
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
-        "summary": "",
-        "website": ""
+        "name": "Saint Mark The Evangelist Catholic Church - Food Pantry",
+        "address": "7501 Adelphi Rd, Hyattsville, MD 20783 (very close to College Park)",
+        "hours": "Tues 10am-12pm",
+        "phone": "(301) 779-2763",
+        "website": "N/A"
         },
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
-        "summary": "",
-        "website": ""
+        "name": "Congregations United For Compassion & Empowerment -Soup Kitchen",
+        "address": "6800 Adelphi Rd, Hyattsville, MD 20782 (very close to College Park)",
+        "hours": "Tues+Thurs 1-5pm",
+        "phone": "(301) 922-7054",
+        "website": "https://www.congregationsunited.org/"
         }
     ],
-    "germantown": [
+    "gaithersburg": [
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
-        "summary": "",
-        "website": ""
+        "name": "Community Hope Center (Gaithersburg Hub) Food Pantry",
+        "address": "13 Firstfield Rd Suite 100, Gaithersburg, MD 20878",
+        "hours": "Tues+Thurs 10am-4:30pm, Fri 1-4pm, 1st Sat of the month 9:45am-12pm",
+        "phone": "(240) 229-9642",
+        "website": "https://senecacreek.org/get-assistance/"
         },
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
-        "summary": "",
-        "website": ""
+        "name": "Manna Food Center",
+        "address": "9311 Gaither Rd, Gaithersburg, MD 20877",
+        "hours": "Mon-Fri 8am-2pm",
+        "phone": "(301) 424-1130",
+        "website": "http://www.mannafood.org/"
         },
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
-        "summary": "",
-        "website": ""
+        "name": "Saint Martin of Tours Food Pantry",
+        "address": "201 S Frederick Ave, Gaithersburg, MD 20877",
+        "hours": "Mon 6:30-11:30am",
+        "phone": "(301) 990-3203",
+        "website": "https://www.stmartinsweb.org/st-martin-s-pantry"
         },
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
-        "summary": "",
-        "website": ""
+        "name": "Gaithersburg HELP Pantry",
+        "address": "301 Muddy Branch Rd, Gaithersburg, MD 20878",
+        "hours": "N/A",
+        "phone": "(301) 216-2510",
+        "website": "http://gaithersburghelp.org/"
         }
     ],
     "richmond": [
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
-        "summary": "",
-        "website": ""
+        "name": "Feed More",
+        "address": "8020 Villa Park Dr, Richmond, VA 23228",
+        "hours": "Mon-Fri 8am-4pm",
+        "phone": "(804) 521-2500",
+        "website": "https://www.feedmore.org/"
         },
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
-        "summary": "",
-        "website": ""
+        "name": "Liberation Church & Outreach Center - Food Distribution Center",
+        "address": "5501 Midlothian Tpke, Richmond, VA 23224",
+        "hours": "Tues+Thurs 2-4pm",
+        "phone": "(804) 651-3067",
+        "website": "N/A"
         },
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
-        "summary": "",
-        "website": ""
+        "name": "Church of the Holy Comforter Food Pantry",
+        "address": "4819 Monument Ave, Richmond, VA 23226",
+        "hours": "Tues 5:30-6:30pm, Sat 11am-12pm",
+        "phone": "(804) 355-3251",
+        "website": "https://feedmore.org/agency/church-of-the-holy-comforter/"
         },
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
-        "summary": "",
-        "website": ""
+        "name": "Lamb's Basket",
+        "address": "8419 Oakview Ave, Henrico, VA 23228 (very close to Richmond)",
+        "hours": "Tues+Thurs 10am-12pm",
+        "phone": "(804) 565-8007",
+        "website": "http://www.lambsbasket.org/"
         }
     ],
     "arlington": [
@@ -277,32 +245,28 @@
         "address": "2708 S Nelson St, Arlington, VA 22206",
         "hours": "Mon+Wed+Fri 9am-1pm, Tues+Thurs 9am-1pm then 6-7pm, Sat 8:30am-12:30pm",
         "phone": "(703) 845-8486",
-        "summary": "",
         "website": "https://afac.org/"
         },
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
-        "summary": "",
-        "website": ""
+        "name": "Salvation Army Food Pantry",
+        "address": "518 S Glebe Rd, Arlington, VA 22204",
+        "hours": "N/A",
+        "phone": "(703) 979-3380",
+        "website": "https://www.salvationarmyusa.org/usn/cure-hunger/"
         },
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
-        "summary": "",
-        "website": ""
+        "name": "The Little Yellow Free Pantry",
+        "address": "203 S Fillmore St, Arlington, VA 22204",
+        "hours": "Mon-Sun 24hrs",
+        "phone": "N/A",
+        "website": "https://mapping.littlefreepantry.org/pantry/3084"
         },
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
-        "summary": "",
-        "website": ""
+        "name": "Our Lady Queen Of Peace Church - Food Distribution Center",
+        "address": "2700 19th St S, Arlington, VA 22201",
+        "hours": "Wed 9am-11:30am",
+        "phone": "(703) 979-5580",
+        "website": "https://www.ourladyqueenofpeace.org/food-pantry.html"
         }
     ],
     "fairfax": [
@@ -311,134 +275,118 @@
         "address": "2938 Prosperity Ave, Fairfax, VA 22031",
         "hours": "Mon-Fri 9:30am-5pm",
         "phone": "(703) 207-9173",
-        "summary": "",
         "website": "http://www.foodforothers.org/"
         },
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
-        "summary": "",
-        "website": ""
+        "name": "Free Little Food Pantry",
+        "address": "9019 Little River Turnpike, Fairfax, VA 22031",
+        "hours": "Mon-Sun 24hrs",
+        "phone": "N/A",
+        "website": "https://www.littlefreepantry.org/"
         },
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
-        "summary": "",
-        "website": ""
+        "name": "Blessing Box",
+        "address": "Van Dyck Park, 3720 Old Lee Hwy, Fairfax, VA 22030",
+        "hours": "Mon-Sun 24hrs",
+        "phone": "(703) 273-7586",
+        "website": "N/A"
         },
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
-        "summary": "",
-        "website": ""
+        "name": "Cornerstones Food Pantry",
+        "address": "11484 Washington Plaza W #120, Reston, VA 20190 (close to Fairfax)",
+        "hours": "Mon-Thurs 8:30am-4pm, Fri 8:30am-1pn",
+        "phone": "(571) 323-1400",
+        "website": "https://www.cornerstonesva.org/"
         }
     ],
     "alexandria": [
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
-        "summary": "",
-        "website": ""
+        "name": "Catholic Charities Christ House Food Pantry",
+        "address": "4725-A Eisenhower Ave, Alexandria, VA 22304",
+        "hours": "Wed+Thurs 9am-1pm",
+        "phone": "(703) 548-4227",
+        "website": "https://www.ccda.net/need-help/food/food-pantries/alexandria-food-pantry/"
         },
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
-        "summary": "",
-        "website": ""
+        "name": "ALIVE! Warehouse",
+        "address": "801 S Payne St, Alexandria, VA 22314",
+        "hours": "Mon-Fri 10am-4pm, Sat 9am-12pm",
+        "phone": "(703) 837-9300",
+        "website": "https://www.alive-inc.org/food-program-in-alexandria-virginia/"
         },
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
-        "summary": "",
-        "website": ""
+        "name": "United Community",
+        "address": "7511 Fordson Rd, Alexandria, VA 22306",
+        "hours": "Mon-Fri 9am-5pm",
+        "phone": "(703) 768-7106",
+        "website": "http://www.unitedcommunity.org/"
         },
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
-        "summary": "",
-        "website": ""
+        "name": "Koinonia Foundation Inc",
+        "address": "6037 Franconia Rd, Alexandria, VA 22310",
+        "hours": "Mon-Wed+Fri 9am-12:30pm, Mon 4-7:30pm, Thurs 9am-4:30pm",
+        "phone": "(703) 971-1991",
+        "website": "http://koinoniacares.org/"
         }
     ],
     "falls church": [
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
-        "summary": "",
-        "website": ""
+        "name": "Columbia Baptist Church Center For Missions - Food Distribution Center",
+        "address": "103 W Columbia St, Falls Church, VA 22046",
+        "hours": "Sat 9-10:30pm",
+        "phone": "(703) 534-5700",
+        "website": "https://columbia.church/join-the-mission/local/food-pantry/"
         },
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
-        "summary": "",
-        "website": ""
+        "name": "Falls Church Community Service Council",
+        "address": "7416 Arlington Blvd, Falls Church, VA 22042",
+        "hours": "Mon-Fri 8am-4:30pm",
+        "phone": "(703) 237-2562",
+        "website": "https://fcswecare.org/"
         },
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
-        "summary": "",
-        "website": ""
+        "name": "Food For Others",
+        "address": "2938 Prosperity Ave, Fairfax, VA 22031 (close to Falls Church)",
+        "hours": "Mon-Fri 9:30am-5pm",
+        "phone": "(703) 207-9173",
+        "website": "http://www.foodforothers.org/"
         },
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
-        "summary": "",
-        "website": ""
+        "name": "Arlington Food Assistance Center (AFAC)",
+        "address": "2708 S Nelson St, Arlington, VA 22206 (close to Falls Church)",
+        "hours": "Mon+Wed+Fri 9am-1pm, Tues+Thurs 9am-1pm then 6-7pm, Sat 8:30am-12:30pm",
+        "phone": "(703) 845-8486",
+        "website": "https://afac.org/"
         }
     ],
     "charlottesville": [
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
-        "summary": "",
-        "website": ""
+        "name": "Blue Ridge Area Food Bank - Eastern Region",
+        "address": "1207 Harris St, Charlottesville, VA 22903",
+        "hours": "Mon-Fri 8am-4:30pm",
+        "phone": "(434) 296-3663",
+        "website": "https://www.brafb.org/"
         },
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
-        "summary": "",
-        "website": ""
+        "name": "Loaves & Fishes Food Pantry",
+        "address": "2050 Lambs Rd, Charlottesville, VA 22901",
+        "hours": "Tues 4-7pm, Wed 3-4pm, Thurs 6:30-8:30pm, Sat 10am-12pm",
+        "phone": "(434) 996-7868",
+        "website": "https://cvillefoodpantry.org/"
         },
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
-        "summary": "",
-        "website": ""
+        "name": "Emergency Food Network",
+        "address": "900 Harris St, Charlottesville, VA 22902",
+        "hours": "Mon+Wed+Fri+Sat 9am-12pm, 1:30-3:30pm",
+        "phone": "(434) 979-9180",
+        "website": "http://emergencyfoodnetwork.org/"
         },
         {
-        "name": "",
-        "address": "",
-        "hours": "",
-        "phone": "",
-        "summary": "",
-        "website": ""
+        "name": "Buck Mountain Episcopal - Food Distribution Center",
+        "address": "4133 Earlysville Rd, Earlysville, VA 22936",
+        "hours": "2nd and 4th Wedn of every month from 3-5pm",
+        "phone": "(434) 973-2054",
+        "website": "https://buckmountainchurch.org/earlysville-food-pantry/"
         } 
     ]
 

@@ -1,7 +1,7 @@
 '''
 A directory of food pantrys/banks/non profits (focus is in the DMV)
 '''
-import os #to delete a file
+#import os #to delete a file
 import json #for json file
 # json files are formatted in an easier way then dictionaries 
 with open("food_banks.json", "r") as file:
@@ -34,7 +34,7 @@ def dc_directory():
 
 def md_directory():
     # list just ot display info
-    MD = ['baltimore', 'silver spring', 'rockville', 'bathesda', 'college park', 'germantown']
+    MD = ['baltimore', 'silver spring', 'rockville', 'bathesda', 'college park', 'gaithersburg']
     print("Here are the cities in Maryland this directory has: ")
     print(MD)
     city = input("Choose a city you want to explore: ")
@@ -95,7 +95,6 @@ def learn(city, index):
     print()
     print(f"Hours: {place['hours']}")
     print(f"Phone: {place['phone']}")
-    print(f"Summary: {place['summary']}")
     print(f"Website: {place['website']}")
     print()
 
@@ -125,7 +124,6 @@ def add_list(bookmarked_place):
             f.write(f"Address: {bookmarked_place['address']} \n")
             f.write(f"Hours: {bookmarked_place['hours']} \n")
             f.write(f"Phone: {bookmarked_place['phone']} \n")
-            f.write(f"Summary: {bookmarked_place['summary']} \n")
             f.write(f"Website: {bookmarked_place['website']} \n")
     # if file doesnt exist already
     else:
@@ -136,7 +134,6 @@ def add_list(bookmarked_place):
             f.write(f"Address: {bookmarked_place['address']} \n")
             f.write(f"Hours: {bookmarked_place['hours']} \n")
             f.write(f"Phone: {bookmarked_place['phone']} \n")
-            f.write(f"Summary: {bookmarked_place['summary']} \n")
             f.write(f"Website: {bookmarked_place['website']} \n")
 
         with open("bookmarks.txt", "a") as g:
@@ -191,6 +188,7 @@ def show_list():
         print("Please enter a number shown.")
 
 
+#so bassically, make a dictionary with the info and then overwwrite it into the json? when you append certain value
 '''
 dictionary = {
     "Name": {

@@ -14,3 +14,20 @@ Design Thinking Final Passion Project
 
 ## Define: 
 - How might I help an individual learn about food banks/pantrys/non-profits where they can be provided food after the government shutdown cut on the Supplemental Nutrition Assistance Program?
+
+# Reflection
+### Problems I faced
+    - I tried to add a delete bookmark feauture where it will delete a certain bookmark instead of clearing the whole file 
+    - I struggled to find where I could use a dictionary but I eventually just used it for the menu
+    - other than that, I did not really face any problems
+
+### What I'm most proud of
+    - I am proud of being to put everything I learnt this mod together
+    - I think my idea is good and if I had more time it could be even more
+
+### What I would add/change
+    - I would add more cities/towns and more places 
+    - maybe make it by county instead of cities too
+    - add a summary when displaying info (I had it before but deleted it due to not having enough time </3)
+
+### Pledge
