@@ -36,8 +36,12 @@ Design Thinking Final Passion Project
     - add the delete bookmark option (I ran out of time)
 
 ### Pledge
-I did not give nor receive aid on this assignment with the exception of these sources:
+    I did not give nor receive aid on this assignment with the exception of these sources:
     - json files: https://www.w3schools.com/python/python_json.asp + https://www.geeksforgeeks.org/python/read-json-file-using-python/
     - isdigit(): https://www.w3schools.com/python/ref_string_isdigit.asp
     - join(): https://www.w3schools.com/python/ref_string_join.asp
     - mardown for readme: https://www.markdownguide.org/getting-started/
+
+### Peer Review
+    -My mom was my peer reviewer and she made me realize that some of my instructions weren't clear enough, so I made them cleaer
+    -Also made it so it allowed user to type in stuff like 'dc' for the menu instead of just numbers

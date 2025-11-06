@@ -104,6 +104,7 @@ def all_directory(city):
 
 #to learn about the certain food bank/pantry/non profit
 def learn(city, index):
+    # to get the city and the place in the city
     place = info[city][index]
 
     #printing things in the json file
@@ -536,14 +537,14 @@ def delete_list(bookmark_list, bookmark_place):
 def menu():
     menu = {
         "1": "Washington DC",
-        "2": "Browse cities in Maryland",
-        "3": "Browse cities in Virginia",
+        "2": "Maryland",
+        "3": "Virginia",
         "4": "Type in your city",
         "5": "Show bookmarks",
         "6": "Exit"
     }
 
-    print("---- What will you choose? ----")
+    print("---- Type a number from the menu ----")
     for key, value in menu.items():
         print(f"{key}. {value}")
 
@@ -569,17 +570,17 @@ def main():
     print()
     time.sleep(0.5)
     menu()
-    choice = input()
+    choice = input().lower()
     print()
     while choice not in stop_choices:
-        if choice == "1" or choice == "Washington DC" or choice == "DC":
+        if choice == "1" or choice == "washington dc" or choice == "dc":
             time.sleep(0.7)
             print("Here are the places in DC:")
             dc_directory()
-        elif choice == "2" or choice == "Maryland" or choice == "MD":
+        elif choice == "2" or choice == "maryland" or choice == "MD":
             time.sleep(0.7)
             md_directory()
-        elif choice == "3" or choice == "Virginia" or choice == "VA":
+        elif choice == "3" or choice == "virginia" or choice == "VA":
             time.sleep(0.7)
             va_directory()
         elif choice == "4" or choice == "city":
@@ -594,7 +595,7 @@ def main():
         print()
         time.sleep(0.5)
         menu()
-        choice = input()
+        choice = input().lower()
 
     time.sleep(0.5)
     print("Goodbye! ")
